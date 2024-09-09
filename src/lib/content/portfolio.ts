@@ -7,15 +7,15 @@
 import { StringKeyValueType } from '../types';
 
 export const socialLinks: StringKeyValueType = {
-  skype: "https://join.skype.com/invite/pdInnUIZkOTb",
+  skype: "https://join.skype.com/invite/OQ28vNZb120U",
   telegram: "https://t.me/luckystar099",
   github: 'https://github.com/bigcoredev',
-  linkedin: 'https://linkedin.com/in/eric-stanovic-19896b326',
+  linkedin: 'https://linkedin.com/in/Eric-Huang-19896b326',
 };
 
 export const author = {
   name: 'eric huang',
-  email: 'luckystar099019@gmail.com',
+  email: 'superbubblego124@gmail.com',
 };
 
 export const seoData = {
